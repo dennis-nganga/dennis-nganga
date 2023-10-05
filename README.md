@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dennis-nganga
 - 👀 I’m interested in software engineering,audio engineering,photography, swimming
-- 🌱 I’m currently learning python3
+- 🌱 I’m currently an intern with Italanta
 - 💞️ I’m looking to collaborate on any project that you have
 - 📫 How to reach me denniskimani416@gmail.com
 
